@@ -1,2 +1,5 @@
-Git Guide
-By Sofiia Pankiv
+Git rm
+Git rm to remove file(s) ftom the staging area.
+format git rm filename
+can use wildcards and -r for recusive
+use - - cached to use on working directory
